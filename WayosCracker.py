@@ -1,0 +1,1 @@
+print('nani wayos cracker!!')
